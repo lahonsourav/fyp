@@ -1,1 +1,10 @@
 streamlit
+numpy
+pandas
+matplotlib
+librosa
+scipy
+soundfile
+plotly
+opencv-python
+tensorflow
